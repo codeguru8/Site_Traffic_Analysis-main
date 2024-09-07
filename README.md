@@ -21,7 +21,7 @@
 This data analysis project aims to provide insights and creating dashboard into visualizing key metrics to drive informed decision-making within measure School organization. By analyzing various aspects of the data, I seek to total users, sessions engaged sessions, revenue, number of users visited their website and where users of their website are coming from.
 
 
-![Site_Traffic_Analysis](https://github.com/user-attachments/assets/83bbbde4-dfd4-44c0-bade-4d9071d6f559)
+![Site_Traffic_Analysis]([https://github.com/user-attachments/assets/83bbbde4-dfd4-44c0-bade-4d9071d6f559](https://github.com/codeguru8/Site_Traffic_Analysis-main/blob/main/Site_Traffic_Analysis.png))
 
 
 ### Data Sources
